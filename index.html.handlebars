@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0">
+<meta name="author" content={{author}}>
+<meta name="description" content={{description}}>
+
+<head>
+  <title>{{title}}</title>
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" title="Header Font" href="https://fonts.googleapis.com/css?family=Droid+Sans">
+  <link rel="stylesheet" title="Paragraph Font" href="https://fonts.googleapis.com/css?family=Open+Sans">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/coral-bay.theme.css">
+  <link rel="stylesheet" href="css/custom.css">
+</head>
+
+<body>
+  <main>
+    {{#each slides}}
+
+    <section>
+      {{#if heading}}
+      <h1>{{{heading}}}</h1>
+      {{/if}}
+      {{#if sub-heading}}
+      <h3>{{{sub-heading}}}</h3>
+      {{/if}}
+      {{#if img}}
+      <figure>
+        <a href={{img}} target="_blank">
+          <div class="image-window">
+              <img src={{img}}>
+          </div>
+        </a>
+        {{#if img-caption}}
+        <figcaption>{{{img-caption}}}</figcaption>
+        {{/if}}
+      </figure>
+      {{/if}}
+      {{#each contents}}
+        {{#if ul}}
+        <ul>
+          {{#each ul}}
+          <li>{{{this}}}</li>
+          {{/each}}
+        </ul>
+        {{else if ol}}
+        <ol>
+          {{#each ol}}
+            <li>{{{this}}}</li>
+          {{/each}}
+        </ol>
+        {{else}}
+          {{#each this}}
+        <{{@key}}>
+          {{{this}}}
+        </{{@key}}>
+          {{/each}}
+        {{/if}}
+      {{/each}}
+    </section>
+    {{/each}}
+
+  </main>
+  <script src="js/main.js"></script>
+</body>
+</html>
