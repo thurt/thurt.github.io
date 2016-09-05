@@ -1,17 +1,15 @@
 {
-  "name": "page",
+  "name": "thurt",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Developer Profile for Taylor Hurt",
   "scripts": {
-    "compile": "node compile.js"
+    "compile": "node compile/compile.js"
   },
   "author": "thurt",
   "license": "ISC",
   "devDependencies": {
     "handlebars": "^4.0.5",
-    "icon-gen": "^1.0.5",
-    "jsonlint": "^1.6.2"
+    "icon-gen": "^1.0.5"
   },
   "dependencies": {}
 }

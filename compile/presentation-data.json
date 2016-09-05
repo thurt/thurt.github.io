@@ -1,0 +1,155 @@
+{
+  "author": "Taylor Hurt",
+  "description": "Find out more about Taylor's developer profile and recent projects.",
+  "title": "Developer Profile for Taylor Hurt",
+  "bg-start-color": "#F1F2B5",
+  "bg-end-color": "#135058",
+  "slides": [
+    {
+      "heading": "Welcome",
+      "sub-heading": "Developer Profile for Taylor Hurt",
+      "contents": [
+        { "p": "This is a brief presentation about my background and recent projects." }
+      ]
+    },
+    {
+      "heading": "Profile",
+      "contents": [
+        {
+          "ul": [
+            "Creative and data-centric individual",
+            "+2 yrs. experience in HTML, CSS, Javascript",
+            "+2 yrs. experience serving clients in a technical support role",
+            "Experience in webspace accessibility and optimization",
+            "Proficient at making nodejs utilities and build tools",
+            "Knowledgable in provisioning and managing remote servers",
+            "Domain knowledge in molecular biology and genetics",
+            "Former Employers: USDA, Dow Chemical Company"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Portfolio",
+      "sub-heading": "Symbolic Notation System",
+      "img": "img/mapAccum.png",
+      "img-caption": "Example input/output notation",
+      "contents": [
+        { "p": "Many functions in the <a href='http://ramdajs.com' target='_blank'>Ramda library</a> can be difficult to explain in words. This project improved the library's documentation with the creation of an input/output notation similar to Mathematica." },
+        { "p": "More discussion on this topic <a href='https://github.com/ramda/ramda/issues/1776' target='_blank'>here&#x21D7;</a>"},
+        { "p": "<span class='tags'>Tags: Functional Programming, Documentation, Handlebars, Open-Source Development</span>" }
+      ]
+    },
+    {
+      "heading": "Portfolio",
+      "sub-heading": "Responsive REPL Layout",
+      "img": "img/repl.jpg",
+      "img-caption": "Demo image",
+      "contents": [
+        { "p": "The existing Ramda REPL suffered from an inflexible layout, making it unusable for users with smaller screen sizes. This project increased screen real estate and used Bootstrap to enable responsive layout adjustments at smaller screen sizes." },
+        { "p":  "Try the <a href='http://ramdajs.com/repl' target='_blank'>REPL&#x21D7;</a>" },
+        { "p": "<span class='tags'>Tags: Responsive Design, Bootstrap, Open-Source Development</span>" }
+      ]
+    },
+    {
+      "heading": "Portfolio",
+      "sub-heading": "Directed Graph Application",
+      "img": "img/directedgraph.JPG",
+      "img-caption": "Demo image",
+      "contents": [
+        { "p": "A custom UX/UI was created and integrated with the graph library <a href='http://getspringy.com/' target='_blank'>Springy</a> to create this interactive graphing application. Graphs can be saved and loaded from the users filesystem." },
+        { "p": "Try the <a href='https://rawgit.com/thurt/demo-springy-app/master/dist/index.html' target='_blank'>demo&#x21D7;</a>"},
+        { "p": "<span class='tags'>Tags: UX/UI Design, Graphs, Canvas, Filesystem Storage</span>"}
+      ]
+    },
+    {
+      "heading": "Portfolio",
+      "sub-heading": "Product Assembler",
+      "img": "img/productassembler.PNG",
+      "img-caption": "Demo image",
+      "contents": [
+        { "p": "This project uses a JSON schema as the foundational data for automated form creation and user input type checking for a mock product. The MVC architecture is followed in the code." },
+        { "p": "Try the <a href='https://rawgit.com/thurt/demo-mvc-product-assembler/master/index.html' target='_blank'>demo&#x21D7;</a>"},
+        { "p": "<span class='tags'>Tags: Schemas, Forms, MVC</span>"}
+      ]
+    },
+    {
+      "heading": "Portfolio",
+      "sub-heading": "Note-Taking Application",
+      "img": "img/noteapp.png",
+      "img-caption": "Demo image",
+      "contents": [
+        { "p": "This practical application exemplifies MVVM and PubSub architecture. The Note model provides a Data Access Layer to localStorage and the View Models contain the logic to perform DOM updates." },
+        { "p": "Try the <a href='https://rawgit.com/thurt/demo-mvvm-note-app/master/dist/index.html' target='_blank'>demo&#x21D7;</a>" },
+        { "p": "<span class='tags'>Tags: MVVM, PubSub, Bootstrap, UX Design, localStorage</span>" }
+      ]
+    },
+    {
+      "heading": "Portfolio",
+      "sub-heading": "Snakes!",
+      "img": "img/snakes.png",
+      "img-caption": "Demo image",
+      "contents": [
+        { "p": "This weekend project attempts to recreate the classic Snakes game. The game board is responsive to window size so try adjusting it and then refresh to play at different sizes." },
+        { "p": "Try the <a href='https://rawgit.com/thurt/demo-snake-game/master/index.html' target='_blank'>demo&#x21D7;</a>" },
+        { "p": "<span class='tags'>Tags: Canvas, Game, AI</span>" }
+      ]
+    },
+    {
+      "heading": "Portfolio",
+      "sub-heading": "Macro Counter",
+      "img": "img/macrocounter.png",
+      "img-caption": "Demo image",
+      "contents": [
+        { "p": "This small demo is the result of exploring component-style classes, virtual dom, immutability, and single data state. It allows users to dynamically create new components and create macros for component functions. The application state is kept in localStorage." },
+        { "p": "Try the <a href='https://rawgit.com/thurt/demo-snabbdom-macro-counter/master/app/index.html' target='_blank'>demo&#x21D7;</a>" },
+        { "p": "<span class='tags'>Tags: Components, Single Data State, Virtual DOM, Immutability, localStorage</span>" }
+      ]
+    },
+    {
+      "heading": "Portfolio",
+      "sub-heading": "Surfling Wireframe",
+      "img": "img/surfling.png",
+      "img-caption": "Wireframe image",
+      "contents": [
+        { "p": "This wireframe was created in Photoshop and then turned into a functional website with HTML and CSS." },
+        { "p": "Click the image to see full-screen." },
+        { "p": "<span class='tags'>Tags: Wireframe, Photoshop, Custom Graphics</span>" }
+      ]
+    },
+    {
+      "heading": "Portfolio",
+      "sub-heading": "Wheeler Bros. Wireframe",
+      "img": "img/wheeler.png",
+      "img-caption": "Wireframe image",
+      "contents": [
+        { "p": "This wireframe was created in Photoshop and then turned into a functional website with HTML and CSS." },
+        { "p": "Click the image to see full-screen."},
+        { "p": "<span class='tags'>Tags: Wireframe, Photoshop, Custom Graphics</span>" }
+      ]
+    },
+    {
+      "heading": "Summary Experience Developing With",
+      "contents": [
+        {
+          "ul": [
+            "jQuery, npm, nodejs, RxJS, Ramda",
+            "Semantic HTML, Bootstrap, Responsive Design, Photoshop",
+            "MVC, MVVM, PubSub, Functional Programming, Test-Driven Development, Mocha/Chai",
+            "Express.js, Handlebars, Joi, RAML, Swagger, Nginx, MySQL, CouchDB, ArangoDB, RethinkDB",
+            "Git, Linux, remote ssh/scp/sftp, SSL Certs, Bash scripting, Cron, Regexps, LXC virtual containers"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Contact",
+      "img": "img/profile.jpg",
+      "contents": [
+        { "p": "Thanks for taking the time to learn more about me." },
+        { "p": "I'm available for full-time, part-time, or contract work. Don't hesitate to email me with iquiries. I look forward to hearing from you!" },
+        { "p": "<a rel='me' href='https://github.com/thurt' target='_blank'>My Github Profile&#x21D7;</a><br>taylor.a.hurt@gmail.com<br>Tampa Bay Area"}
+      ]
+    }
+  ]
+}
