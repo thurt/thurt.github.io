@@ -4,8 +4,8 @@ html, body {
 }
 
 html {
-  font-size: calc(1em + 1vw);
-  line-height: calc(1.2 * 3vw);
+  font-size: calc(8px + 1vw);
+  line-height: 1.8;
 }
 
 body {

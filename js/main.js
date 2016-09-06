@@ -40,20 +40,20 @@ function Navigation(inactiveHTML, activeHTML) {
       else if (e.key === 'ArrowLeft' || e.keyCode === '37') prev(e)
     })
 
-    var mytouch = null
+    var mytouchstart = null
     window.addEventListener('touchstart', function(e) {
-      mytouch = e.changedTouches[0].pageY
+      mytouchstart = e.changedTouches[0].pageX
     })
     window.addEventListener('touchend', function(e) {
-      if (mytouch !== null) {
-        var release = e.changedTouches[0].pageY
-        if (mytouch < release) {
-          if (mytouch + 30 < release) prev()
+      if (mytouchstart !== null) {
+        var release = e.changedTouches[0].pageX
+        if (mytouchstart < release) {
+          if (mytouchstart + 100 < release) prev()
         }
-        else if (mytouch > release) {
-          if (mytouch - 30 > release) next()
+        else if (mytouchstart > release) {
+          if (mytouchstart - 100 > release) next()
         }
-        mytouch = null
+        mytouchstart = null
       }
     })
 
