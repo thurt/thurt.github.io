@@ -52,24 +52,35 @@
     },
     {
       "heading": "Portfolio",
+      "sub-heading": "Responsive Note-Taking Application",
+      "img": "img/noteapp.png",
+      "img-caption": "Demo image",
+      "contents": [
+        { "p": "In addition to a responsive design, this practical application exemplifies MVVM and PubSub architecture. The Note model provides a Data Access Layer to localStorage and the View Models contain the logic to perform DOM updates." },
+        { "p": "Try the <a href='https://rawgit.com/thurt/demo-mvvm-note-app/master/dist/index.html' target='_blank'>demo&#x21D7;</a>" },
+        { "p": "<span class='tags'>Tags: MVVM, PubSub, Bootstrap, Responsive Design, UX Design, localStorage</span>" }
+      ]
+    },
+    {
+      "heading": "Portfolio",
       "sub-heading": "Directed Graph Application",
       "img": "img/directedgraph.JPG",
       "img-caption": "Demo image",
       "contents": [
         { "p": "A custom UX/UI was created and integrated with the graph library <a href='http://getspringy.com/' target='_blank'>Springy</a> to create this interactive graphing application. Graphs can be saved and loaded from the users filesystem." },
-        { "p": "Try the <a href='https://rawgit.com/thurt/demo-springy-app/master/dist/index.html' target='_blank'>demo&#x21D7;</a>"},
+        { "p": "Try the <a href='https://rawgit.com/thurt/demo-springy-app/master/dist/index.html' target='_blank'>demo&#x21D7;</a><br><span style='font-size:smaller;'>requires large screen size</span>"},
         { "p": "<span class='tags'>Tags: UX/UI Design, Graphs, Canvas, Filesystem Storage</span>"}
       ]
     },
     {
       "heading": "Portfolio",
-      "sub-heading": "Note-Taking Application",
-      "img": "img/noteapp.png",
+      "sub-heading": "Product Assembler",
+      "img": "img/productassembler.PNG",
       "img-caption": "Demo image",
       "contents": [
-        { "p": "This practical application exemplifies MVVM and PubSub architecture. The Note model provides a Data Access Layer to localStorage and the View Models contain the logic to perform DOM updates." },
-        { "p": "Try the <a href='https://rawgit.com/thurt/demo-mvvm-note-app/master/dist/index.html' target='_blank'>demo&#x21D7;</a>" },
-        { "p": "<span class='tags'>Tags: MVVM, PubSub, Bootstrap, UX Design, localStorage</span>" }
+        { "p": "The idea of this product assembler is to automatically create form elements and add user input type checking when importing a single JSON schema. The MVC architecture is followed in the code." },
+        { "p": "Try the <a href='https://rawgit.com/thurt/demo-mvc-product-assembler/master/index.html' target='_blank'>demo&#x21D7;</a>"},
+        { "p": "<span class='tags'>Tags: Schemas, Forms, MVC</span>"}
       ]
     },
     {
@@ -79,7 +90,7 @@
       "img-caption": "Demo image",
       "contents": [
         { "p": "This weekend project attempts to recreate the classic Snakes game. The game board is responsive to window size so try adjusting it and then refresh to play at different sizes." },
-        { "p": "Try the <a href='https://rawgit.com/thurt/demo-snake-game/master/index.html' target='_blank'>demo&#x21D7;</a>" },
+        { "p": "Try the <a href='https://rawgit.com/thurt/demo-snake-game/master/index.html' target='_blank'>demo&#x21D7;</a><br><span style='font-size:smaller;'>requires arrow keys</span>" },
         { "p": "<span class='tags'>Tags: Canvas, Game, AI</span>" }
       ]
     },
@@ -92,17 +103,6 @@
         { "p": "This small demo is the result of exploring virtual dom, immutability, and single data state. The idea is to create an environment which allows the user to create new components and macros for component functions. The application state is kept in localStorage." },
         { "p": "Try the <a href='https://rawgit.com/thurt/demo-snabbdom-macro-counter/master/app/index.html' target='_blank'>demo&#x21D7;</a>" },
         { "p": "<span class='tags'>Tags: Components, Single Data State, Virtual DOM, Immutability, localStorage</span>" }
-      ]
-    },
-    {
-      "heading": "Portfolio",
-      "sub-heading": "Product Assembler",
-      "img": "img/productassembler.PNG",
-      "img-caption": "Demo image",
-      "contents": [
-        { "p": "This product assembler uses a JSON schema as the foundational data for automated form creation and user input type checking. The MVC architecture is followed in the code." },
-        { "p": "Try the <a href='https://rawgit.com/thurt/demo-mvc-product-assembler/master/index.html' target='_blank'>demo&#x21D7;</a>"},
-        { "p": "<span class='tags'>Tags: Schemas, Forms, MVC</span>"}
       ]
     },
     {
@@ -134,7 +134,7 @@
           "ul": [
             "jQuery, RxJS, Ramda, Handlebars, Mocha/Chai",
             "Semantic HTML, Responsive Design, Bootstrap, Photoshop",
-            "MVC, MVVM, PubSub, Functional Programming, TDD",
+            "MVC, MVVM, PubSub, Functional Programming, Test-Driven Development",
             "git, npm, nodejs, Express.js, Joi, RAML, Swagger",
             "nginx, SSL certs, MySQL, CouchDB, ArangoDB, RethinkDB",
             "Bash scripting, Regexps, LXC virtual containers",
