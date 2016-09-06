@@ -78,7 +78,7 @@
       "img": "img/productassembler.PNG",
       "img-caption": "Demo image",
       "contents": [
-        { "p": "The idea of this product assembler is to automatically create form elements and add user input type checking when importing a single JSON schema. The MVC architecture is followed in the code." },
+        { "p": "The idea of this product assembler is to automatically create form elements and add input type checking based the structure of a single JSON schema. The MVC architecture is followed in the code." },
         { "p": "Try the <a href='https://rawgit.com/thurt/demo-mvc-product-assembler/master/index.html' target='_blank'>demo&#x21D7;</a>"},
         { "p": "<span class='tags'>Tags: Schemas, Forms, MVC</span>"}
       ]
