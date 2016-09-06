@@ -1,5 +1,5 @@
 var myNavigation = Navigation('&#9898', '&#9899')
-window.onload = myNavigation
+myNavigation()
 
 //:: _ -> HTMLElement div
 function createNavElement() {
