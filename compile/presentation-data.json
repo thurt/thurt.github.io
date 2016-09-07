@@ -85,7 +85,7 @@
     },
     {
       "heading": "Portfolio",
-      "sub-heading": "The Snakes!",
+      "sub-heading": "Snakes!",
       "img": "img/snakes.png",
       "img-caption": "Demo image",
       "contents": [
@@ -132,9 +132,9 @@
       "contents": [
         {
           "ul": [
-            "jQuery, RxJS, Ramda, Handlebars, Mocha/Chai",
+            "jQuery, RxJS, Ramda, Handlebars, Mocha/Chai, Test-Driven Development",
             "Semantic HTML, Responsive Design, Bootstrap, Photoshop",
-            "MVC, MVVM, PubSub, Functional Programming, Test-Driven Development",
+            "MVC, MVVM, PubSub, Immutability, Virtual DOM, Functional Programming",
             "git, npm, nodejs, Express.js, Joi, RAML, Swagger",
             "nginx, SSL certs, MySQL, CouchDB, ArangoDB, RethinkDB",
             "Bash scripting, Regexps, LXC virtual containers",
@@ -148,7 +148,7 @@
       "img": "img/profile.jpg",
       "contents": [
         { "p": "Thanks for taking the time to learn more about me." },
-        { "p": "I'm available for full-time, part-time, or contract work. Don't hesitate to email me with iquiries. I look forward to hearing from you!" },
+        { "p": "I'm available for full-time, part-time, or contract work. I look forward to hearing from you!" },
         { "p": "<a rel='me' href='https://github.com/thurt' target='_blank'>My Github Profile&#x21D7;</a><br>taylor.a.hurt@gmail.com<br>Tampa Bay Area"}
       ]
     }
