@@ -30,6 +30,17 @@
     },
     {
       "heading": "Portfolio",
+      "sub-heading": "Responsive Landing Page",
+      "img": "img/painters.png",
+      "img-caption": "Demo image",
+      "contents": [
+        { "p": "This mock landing page was created to responsively adjust to different screen sizes, including mobile screens. The original design was created by a graphic designer and this project converted it into a responsive webpage. Sass was used to improve organization of the styles." },
+        { "p": "View the <a href='https://thurt.github.io/sample-landing-page' target='_blank'>website&#x21D7;</a>"},
+        { "p": "<span class='tags'>Tags: Semantic HTML, Responsive Design, Sass</span>" }
+      ]
+    },
+    {
+      "heading": "Portfolio",
       "sub-heading": "Simple Web Presentation",
       "img": "img/webpresentations.png",
       "img-caption": "Demo image",
