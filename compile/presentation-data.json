@@ -154,10 +154,10 @@
       "contents": [
         {
           "ul": [
-            "jQuery, Angular, RxJS, Ramda, Handlebars, Mocha/Chai, Test-Driven Development",
-            "JSON, Semantic HTML, Responsive Design, Bootstrap, Photoshop",
+            "ES6, jQuery, Angular, RxJS, Ramda, Handlebars, Mocha/Chai, Test-Driven Development",
+            "JSON, Semantic HTML, Responsive Design, Sass, Bootstrap, Photoshop",
             "MVC, MVVM, PubSub, Immutability, Virtual DOM, Functional Programming",
-            "git, npm, nodejs, Express.js, Joi, RAML, Swagger",
+            "git, npm, nodejs, Babel, Express.js, Joi, RAML, Swagger",
             "nginx, SSL certs, MySQL, CouchDB, ArangoDB, RethinkDB",
             "Bash scripting, Regexps, LXC virtual containers",
             "Linux administration, remote ssh, cron, rsync"
