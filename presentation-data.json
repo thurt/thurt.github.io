@@ -13,17 +13,16 @@
         {
           "ul": [
             "Engaged in all parts of the development stack: frontend, middleware, and backend",
-            "Proficient with latest mobile application development using React Native",
-            "Enjoys constructing system architectures and orchestrating API communications",
-            "Knowledgable in provisioning and managing remote servers",
-            "Domain knowledge in molecular biology and agriculture (former employers: USDA, Dow Chemical)",
-            "An active member of the open-source community; regularly contributes bug reports and PRs"
+            "Proficient with latest mobile app development using React Native",
+            "An active member of the open-source community; regularly contributes bug reports and PRs",
+            "Enjoys thinking about system architectures and orchestrating API communications",
+            "Domain knowledge in molecular biology and agriculture (former employers: USDA, Dow Chemical)"
           ]
         }
       ]
     },
     {
-      "heading": "Portfolio",
+      "heading": "Frontend Portfolio",
       "sub-heading": "Responsive Landing Page",
       "img": "img/painters.png",
       "img-caption": "Demo image",
@@ -34,7 +33,7 @@
       ]
     },
     {
-      "heading": "Portfolio",
+      "heading": "Frontend Portfolio",
       "sub-heading": "Simple Web Presentation",
       "img": "img/webpresentations.png",
       "img-caption": "Demo image",
@@ -45,7 +44,7 @@
       ]
     },
     {
-      "heading": "Portfolio",
+      "heading": "Frontend Portfolio",
       "sub-heading": "Symbolic Notation System",
       "img": "img/mapAccum.png",
       "img-caption": "Demo image",
@@ -56,7 +55,7 @@
       ]
     },
     {
-      "heading": "Portfolio",
+      "heading": "Frontend Portfolio",
       "sub-heading": "Responsive REPL Layout",
       "img": "img/repl.jpg",
       "img-caption": "Demo image",
@@ -67,7 +66,7 @@
       ]
     },
     {
-      "heading": "Portfolio",
+      "heading": "Frontend Portfolio",
       "sub-heading": "Responsive Note-Taking Application",
       "img": "img/noteapp.png",
       "img-caption": "Demo image",
@@ -78,7 +77,7 @@
       ]
     },
     {
-      "heading": "Portfolio",
+      "heading": "Frontend Portfolio",
       "sub-heading": "Directed Graph Application",
       "img": "img/directedgraph.JPG",
       "img-caption": "Demo image",
@@ -89,7 +88,7 @@
       ]
     },
     {
-      "heading": "Portfolio",
+      "heading": "Frontend Portfolio",
       "sub-heading": "Product Assembler",
       "img": "img/productassembler.PNG",
       "img-caption": "Demo image",
@@ -100,7 +99,7 @@
       ]
     },
     {
-      "heading": "Portfolio",
+      "heading": "Frontend Portfolio",
       "sub-heading": "Snakes!",
       "img": "img/snakes.png",
       "img-caption": "Demo image",
@@ -111,7 +110,7 @@
       ]
     },
     {
-      "heading": "Portfolio",
+      "heading": "Frontend Portfolio",
       "sub-heading": "Macro Counter",
       "img": "img/macrocounter.png",
       "img-caption": "Demo image",
@@ -122,7 +121,7 @@
       ]
     },
     {
-      "heading": "Portfolio",
+      "heading": "Frontend Portfolio",
       "sub-heading": "Mockup for a Legal Site",
       "img": "img/wheeler.png",
       "img-caption": "Demo image",
