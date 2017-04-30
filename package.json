@@ -3,13 +3,12 @@
   "version": "1.0.0",
   "description": "Developer Profile for Taylor Hurt",
   "scripts": {
-    "compile": "node compile/compile.js"
+    "compile": "simple-web-presentation presentation-data.json ./"
   },
   "author": "thurt",
   "license": "ISC",
   "devDependencies": {
-    "handlebars": "^4.0.5",
-    "icon-gen": "^1.0.5"
+    "simple-web-presentation": "git+https://github.com/thurt/simple-web-presentation.git#v2.1.0"
   },
   "dependencies": {}
 }

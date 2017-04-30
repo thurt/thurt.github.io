@@ -9,15 +9,23 @@ a {
   text-decoration: none;
 }
 
-nav {
+.nav {
   align-self: center;
   font-size: calc(13px + 1vw);
   color: #353535;
   flex: none;
 }
 
-nav span {
+.nav .dot {
   cursor: pointer;
+}
+
+.nav .dot.active:before {
+  content: '\26AB';
+}
+
+.nav .dot:before {
+  content: '\26AA';
 }
 
 section {
@@ -30,6 +38,50 @@ section {
   border-bottom-right-radius: 5em;
   box-shadow: .05em .1em .2em #888888;
 }
+
+/* these rules are used if js is enabled, meaning navigation is added with slides appearing/disappearing */
+section.slide {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  height: 0;
+}
+
+section.slide.active {
+  animation: FadeIn 200ms ease 0s 1 normal forwards;
+  z-index: 2;
+}
+
+section.slide.inactive {
+  animation: FadeOut 300ms ease-in 0s 1 normal forwards;
+}
+
+@keyframes FadeIn {
+  0% {
+    opacity: 0;
+    height: initial;
+  }
+  100% {
+    opacity: 1;
+    height: initial;
+  }
+}
+@keyframes FadeOut {
+  0% {
+    opacity: 1;
+    height: initial;
+  }
+  99% {
+    opacity: 0;
+    height: initial;
+  }
+  100% {
+    height: 0;
+    opacity: 0;
+  }
+}
+/**************/
 
 section h1 {
   margin: 0;

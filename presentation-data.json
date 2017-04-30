@@ -1,29 +1,23 @@
 {
   "author": "Taylor Hurt",
-  "description": "Find out more about Taylor's developer profile and recent projects.",
+  "description": "Find out more about this software developer and his recent projects.",
   "title": "Developer Profile for Taylor Hurt",
+  "theme": "css/default.theme.css",
   "bg-start-color": "#F1F2B5",
   "bg-end-color": "#135058",
   "slides": [
     {
-      "heading": "Welcome",
+      "heading": "Welcome 🌎💦🌻",
       "sub-heading": "Developer Profile for Taylor Hurt",
-      "contents": [
-        { "p": "This is a brief presentation about my background and recent projects." }
-      ]
-    },
-    {
-      "heading": "Profile",
       "contents": [
         {
           "ul": [
-            "+2 yrs. experience in HTML, CSS, Javascript",
-            "+2 yrs. experience serving clients in a technical support role",
-            "Experience in webspace accessibility and optimization",
-            "Proficient at making nodejs utilities and build tools",
+            "Engaged in all parts of the development stack: frontend, middleware, and backend",
+            "Proficient with latest mobile application development using React Native",
+            "Enjoys constructing system architectures and orchestrating API communications",
             "Knowledgable in provisioning and managing remote servers",
-            "Domain knowledge in molecular biology and genetics",
-            "Former Employers: USDA, Dow Chemical"
+            "Domain knowledge in molecular biology and agriculture (former employers: USDA, Dow Chemical)",
+            "An active member of the open-source community; regularly contributes bug reports and PRs"
           ]
         }
       ]
@@ -56,7 +50,7 @@
       "img": "img/mapAccum.png",
       "img-caption": "Demo image",
       "contents": [
-        { "p": "Many functions in the <a href='http://ramdajs.com' target='_blank'>Ramda library</a> can be difficult to explain in words. This project improved the library's documentation with the creation of an input/output notation similar to Mathematica." },
+        { "p": "Some functional programming concepts can be difficult for newcomers to understands. This project improved the <a href='http://ramdajs.com' target='_blank'>Ramda</a> library's documentation with the creation of an input/output notation similar to Mathematica." },
         { "p": "For more info, see the <a href='https://github.com/thurt/ramda-analysis' target='_blank'>repo&#x21D7;</a>"},
         { "p": "<span class='tags'>Tags: Functional Programming, Documentation, Handlebars, Open-Source Development</span>" }
       ]
@@ -129,24 +123,13 @@
     },
     {
       "heading": "Portfolio",
-      "sub-heading": "Surfling Wireframe",
-      "img": "img/surfling.png",
-      "img-caption": "Demo image",
-      "contents": [
-        { "p": "This graphical wireframe was created in Photoshop and then turned into a functional website with HTML and CSS." },
-        { "p": "Click the image to see a larger view." },
-        { "p": "<span class='tags'>Tags: Wireframe, Photoshop, Custom Graphics</span>" }
-      ]
-    },
-    {
-      "heading": "Portfolio",
-      "sub-heading": "Wheeler Bros. Wireframe",
+      "sub-heading": "Mockup for a Legal Site",
       "img": "img/wheeler.png",
       "img-caption": "Demo image",
       "contents": [
-        { "p": "This graphical wireframe was created in Photoshop and then turned into a functional website with HTML and CSS." },
+        { "p": "This mockup was created in Photoshop as part of a course assignment." },
         { "p": "Click the image to see a larger."},
-        { "p": "<span class='tags'>Tags: Wireframe, Photoshop, Custom Graphics</span>" }
+        { "p": "<span class='tags'>Tags: Photoshop, Custom Graphics</span>" }
       ]
     },
     {
@@ -154,13 +137,16 @@
       "contents": [
         {
           "ul": [
-            "ES6, jQuery, Angular, RxJS, Ramda, Handlebars, Mocha/Chai, Test-Driven Development",
-            "JSON, Semantic HTML, Responsive Design, Sass, Bootstrap, Photoshop",
-            "MVC, MVVM, PubSub, Immutability, Virtual DOM, Functional Programming",
-            "git, npm, nodejs, Babel, Express.js, Joi, RAML, Swagger",
-            "nginx, SSL certs, MySQL, CouchDB, ArangoDB, RethinkDB",
-            "Bash scripting, Regexps, LXC virtual containers",
-            "Linux administration, remote ssh, cron, rsync"
+            "Markup/Design: Semantic HTML, Responsive CSS design, Sass, Bootstrap, Photoshop",
+            "SPA development: MVC, PubSub, React, React Native, Redux, Backbone",
+            "JS Power tools: RxJS, Ramda, Handlebars",
+            "Automated testing: fakes/mocks/stubs, Jest, enzyme, Mocha/chai, Jenkins",
+            "Interface typing: Flow, TypeScript, Hindly-Milner signatures",
+            "RESTful API tooling: Express.js, Joi, RAML, Swagger, Postman",
+            "Source code management: git, gitflow, npm, yarn, Babel, webpack, browserify",
+            "Database experience: SQL, MongoDB, CouchDB, ArangoDB, RethinkDB",
+            "Dev ops: linux cli, remote ssh, cron, rsync, nginx, SSL certs",
+            "Software teams: agile development, SCRUM"
           ]
         }
       ]
@@ -169,8 +155,8 @@
       "heading": "Contact",
       "img": "img/profile.jpg",
       "contents": [
-        { "p": "Thanks for taking the time to learn more about me. If you would like to see more, you can find repos for all of my projects on GitHub." },
-        { "p": "I'm available for full-time, part-time, or contract work. I look forward to hearing from you!" },
+        { "p": "Thanks for taking the time to learn more about me. If you would like to see more, you can find repos for all of my personal projects on GitHub." },
+        { "p": "Please reach me via email with any inquires. I look forward to hearing from you!" },
         { "p": "<a rel='me' href='https://github.com/thurt' target='_blank'>My Github Profile&#x21D7;</a><br>taylor.a.hurt@gmail.com<br>Tampa Bay Area"}
       ]
     }
