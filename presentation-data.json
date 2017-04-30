@@ -12,13 +12,24 @@
       "contents": [
         {
           "ul": [
-            "Engaged in all parts of the development stack: frontend, middleware, and backend",
-            "Proficient with latest mobile app development using React Native",
+            "Proficient in creating responsive web apps and native mobile apps",
             "An active member of the open-source community; regularly contributes bug reports and PRs",
-            "Enjoys thinking about system architectures and orchestrating API communications",
+            "Has working experience across the stack: frontend, middleware, and backend",
+            "Enjoys planning out software architectures and orchestrating API communications",
             "Domain knowledge in molecular biology and agriculture (former employers: USDA, Dow Chemical)"
           ]
         }
+      ]
+    },
+    {
+      "heading": "Frontend Portfolio",
+      "sub-heading": "Responsive Product Grid",
+      "img": "img/productgrid.png",
+      "img-caption": "Demo image",
+      "contents": [
+        { "p": "This product list grid was created to responsively adjust to different screen sizes. The original design was created by a graphic designer and this project converted it into a responsive webpage." },
+        { "p": "View the <a href='https://thurt.github.io/sample-product-list' target='_blank'>website&#x21D7;</a>"},
+        { "p": "<span class='tags'>Tags: Semantic HTML, Responsive Design</span>" }
       ]
     },
     {
@@ -27,7 +38,7 @@
       "img": "img/painters.png",
       "img-caption": "Demo image",
       "contents": [
-        { "p": "This mock landing page was created to responsively adjust to different screen sizes, including mobile screens. The original design was created by a graphic designer and this project converted it into a responsive webpage. Sass was used to improve organization of the styles." },
+        { "p": "This mock landing page was created to responsively adjust to different screen sizes. The original design was created by a graphic designer and this project converted it into a responsive webpage. Sass was used to improve organization of the styles." },
         { "p": "View the <a href='https://thurt.github.io/sample-landing-page' target='_blank'>website&#x21D7;</a>"},
         { "p": "<span class='tags'>Tags: Semantic HTML, Responsive Design, Sass</span>" }
       ]
@@ -118,17 +129,6 @@
         { "p": "This small demo resulted from exploring virtual dom, immutability, and single data state. It shows the beginnings of a visual content-editing space, where the user could create and save new components or create macros for component functions." },
         { "p": "Try the <a href='https://rawgit.com/thurt/demo-snabbdom-macro-counter/master/app/index.html' target='_blank'>demo&#x21D7;</a>" },
         { "p": "<span class='tags'>Tags: Components, Single Data State, Virtual DOM, Immutability, localStorage</span>" }
-      ]
-    },
-    {
-      "heading": "Frontend Portfolio",
-      "sub-heading": "Mockup for a Legal Site",
-      "img": "img/wheeler.png",
-      "img-caption": "Demo image",
-      "contents": [
-        { "p": "This mockup was created in Photoshop as part of a course assignment." },
-        { "p": "Click the image to see a larger."},
-        { "p": "<span class='tags'>Tags: Photoshop, Custom Graphics</span>" }
       ]
     },
     {
