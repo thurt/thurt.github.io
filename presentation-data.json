@@ -102,26 +102,6 @@
     },
     {
       "heading": "Personal Portfolio",
-      "sub-heading": "Symbolic Notation System",
-      "img": "img/mapAccum.png",
-      "img-caption": "Demo image",
-      "contents": [
-        {
-          "p":
-            "Some functional programming concepts can be difficult for newcomers to understands. This project improved the <a href='http://ramdajs.com' target='_blank'>Ramda</a> library's documentation with the creation of an input/output notation similar to Mathematica."
-        },
-        {
-          "p":
-            "For more info, see the <a href='https://github.com/thurt/ramda-analysis' target='_blank'>repo&#x21D7;</a>"
-        },
-        {
-          "p":
-            "<span class='tags'>Tags: Functional Programming, Documentation, Handlebars, Open-Source Development</span>"
-        }
-      ]
-    },
-    {
-      "heading": "Personal Portfolio",
       "sub-heading": "Responsive REPL Layout",
       "img": "img/repl.jpg",
       "img-caption": "Demo image",
