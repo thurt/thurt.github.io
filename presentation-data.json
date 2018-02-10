@@ -7,13 +7,12 @@
   "bg-end-color": "#135058",
   "slides": [
     {
-      "heading": "Welcome 🌎💦🌻",
-      "sub-heading": "Developer Profile for Taylor Hurt",
+      "heading": "Welcome",
+      "sub-heading": "Personal Portfolio for Taylor Hurt",
       "contents": [
         {
           "ul": [
-            "Proficient in creating responsive web apps and native mobile apps",
-            "Working experience in the frontend, middleware, and backend",
+            "Proficient in creating responsive web apps",
             "Enjoys planning out software architectures and orchestrating API communications",
             "Domain knowledge in biology and agriculture (former employers: USDA, Dow Chemical)"
           ]
@@ -21,7 +20,7 @@
       ]
     },
     {
-      "heading": "Frontend Portfolio",
+      "heading": "Personal Portfolio",
       "sub-heading": "Spots",
       "img": "img/spots.png",
       "img-caption": "Demo image",
@@ -32,7 +31,7 @@
       ]
     },
     {
-      "heading": "Frontend Portfolio",
+      "heading": "Personal Portfolio",
       "sub-heading": "Responsive PLP",
       "img": "img/productgrid.png",
       "img-caption": "Demo image",
@@ -43,7 +42,7 @@
       ]
     },
     {
-      "heading": "Frontend Portfolio",
+      "heading": "Personal Portfolio",
       "sub-heading": "Responsive Landing Page",
       "img": "img/painters.png",
       "img-caption": "Demo image",
@@ -54,7 +53,7 @@
       ]
     },
     {
-      "heading": "Frontend Portfolio",
+      "heading": "Personal Portfolio",
       "sub-heading": "Simple Web Presentation",
       "img": "img/webpresentations.png",
       "img-caption": "Demo image",
@@ -65,7 +64,7 @@
       ]
     },
     {
-      "heading": "Frontend Portfolio",
+      "heading": "Personal Portfolio",
       "sub-heading": "Symbolic Notation System",
       "img": "img/mapAccum.png",
       "img-caption": "Demo image",
@@ -76,7 +75,7 @@
       ]
     },
     {
-      "heading": "Frontend Portfolio",
+      "heading": "Personal Portfolio",
       "sub-heading": "Responsive REPL Layout",
       "img": "img/repl.jpg",
       "img-caption": "Demo image",
@@ -87,7 +86,7 @@
       ]
     },
     {
-      "heading": "Frontend Portfolio",
+      "heading": "Personal Portfolio",
       "sub-heading": "Responsive Note-Taking Application",
       "img": "img/noteapp.png",
       "img-caption": "Demo image",
@@ -98,7 +97,7 @@
       ]
     },
     {
-      "heading": "Frontend Portfolio",
+      "heading": "Personal Portfolio",
       "sub-heading": "Directed Graph Application",
       "img": "img/directedgraph.JPG",
       "img-caption": "Demo image",
@@ -109,7 +108,7 @@
       ]
     },
     {
-      "heading": "Frontend Portfolio",
+      "heading": "Personal Portfolio",
       "sub-heading": "Product Assembler",
       "img": "img/productassembler.PNG",
       "img-caption": "Demo image",
@@ -120,7 +119,7 @@
       ]
     },
     {
-      "heading": "Frontend Portfolio",
+      "heading": "Personal Portfolio",
       "sub-heading": "Snakes",
       "img": "img/snakes.png",
       "img-caption": "Demo image",
@@ -131,7 +130,7 @@
       ]
     },
     {
-      "heading": "Frontend Portfolio",
+      "heading": "Personal Portfolio",
       "sub-heading": "Macro Counter",
       "img": "img/macrocounter.png",
       "img-caption": "Demo image",
