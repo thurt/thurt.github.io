@@ -235,25 +235,6 @@
       ]
     },
     {
-      "heading": "Summary Experience With",
-      "contents": [
-        {
-          "ul": [
-            "Markup/Design: Semantic HTML, Responsive CSS design, Sass, Bootstrap, Photoshop",
-            "SPA development: MVC, PubSub, React, React Native, Redux, Backbone",
-            "JS Power tools: RxJS, Ramda, Handlebars",
-            "Automated testing: fakes/mocks/stubs, Jest, enzyme, Mocha/chai, Jenkins",
-            "Interface typing: Flow, TypeScript, Hindly-Milner signatures",
-            "RESTful API tooling: Express.js, Joi, RAML, Swagger, Postman",
-            "Source code management: git, gitflow, npm, yarn, Babel, webpack, browserify",
-            "Database experience: SQL, MongoDB, CouchDB, ArangoDB, RethinkDB",
-            "Dev ops: linux cli, remote ssh, cron, rsync, nginx, SSL certs",
-            "Software teams: agile/SCRUM"
-          ]
-        }
-      ]
-    },
-    {
       "heading": "Contact",
       "img": "img/profile.jpg",
       "contents": [
