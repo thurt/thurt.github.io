@@ -22,7 +22,7 @@
     },
     {
       "heading": "Personal Portfolio",
-      "sub-heading": "Blog Platform API",
+      "sub-heading": "Blog Platform Server",
       "img": "img/demo-blog-platform-api.png",
       "img-caption": "Demo image",
       "contents": [
@@ -40,6 +40,27 @@
         }
       ]
     },
+    {
+      "heading": "Personal Portfolio",
+      "sub-heading": "Blog Platform Client",
+      "img": "img/demo-blog-platform-client.png",
+      "img-caption": "Demo image",
+      "contents": [
+        {
+          "p":
+            "This <abbr title='Single Page Application'>SPA</abbr> was written using <a href='https://www.typescriptlang.org/'>Typescript</a> and <a href='https://reactjs.org/'>React</a>. It includes pages for viewing Posts, Comments, and User profiles. It also includes an autosaving Post editor that the admin can access when logged in. It handles streamed responses and includes a progress indicator for slower connections."
+        },
+        {
+          "p":
+            "Try the <a href='https://learned-stone-189802.appspot.com/' target='_blank'>client&#x21D7;</a> (login with user: admin, password: admin1), or see the <a href='https://github.com/thurt/demo-blog-platform-client' target='_blank'>repo&#x21D7;</a>."
+        },
+        {
+          "p":
+            "<span class='tags'>Tags: TypeScript, React, streaming, progress indicator</span>"
+        }
+      ]
+    },
+
     {
       "heading": "Personal Portfolio",
       "sub-heading": "Spots",
