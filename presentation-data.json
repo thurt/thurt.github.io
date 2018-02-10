@@ -215,26 +215,6 @@
       ]
     },
     {
-      "heading": "Personal Portfolio",
-      "sub-heading": "Macro Counter",
-      "img": "img/macrocounter.png",
-      "img-caption": "Demo image",
-      "contents": [
-        {
-          "p":
-            "This small demo resulted from exploring a variety of architectural concepts, such as virtual dom and single data state. The code represents the beginnings of a framework to dynamically create components and interaction macros."
-        },
-        {
-          "p":
-            "Try the <a href='https://rawgit.com/thurt/demo-snabbdom-macro-counter/master/app/index.html' target='_blank'>demo&#x21D7;</a>"
-        },
-        {
-          "p":
-            "<span class='tags'>Tags: Components, Single Data State, Virtual DOM, Immutability, localStorage</span>"
-        }
-      ]
-    },
-    {
       "heading": "Contact",
       "img": "img/profile.jpg",
       "contents": [
