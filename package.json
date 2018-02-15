@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Developer Profile for Taylor Hurt",
   "scripts": {
-    "compile": "simple-web-presentation presentation-data.json ./"
+    "compile": "simple-web-presentation presentation-data.yaml ./"
   },
   "author": "thurt",
   "license": "ISC",
