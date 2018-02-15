@@ -60,7 +60,6 @@
         }
       ]
     },
-
     {
       "heading": "Personal Portfolio",
       "sub-heading": "Spots",
@@ -199,23 +198,6 @@
           "p":
             "<span class='tags'>Tags: UX/UI Design, Graphs, Canvas, Filesystem Storage</span>"
         }
-      ]
-    },
-    {
-      "heading": "Personal Portfolio",
-      "sub-heading": "Product Assembler",
-      "img": "img/productassembler.PNG",
-      "img-caption": "Demo image",
-      "contents": [
-        {
-          "p":
-            "The idea of this product assembler is to automatically create form elements and add input type checking based the structure of a single JSON product schema. The MVC architecture is followed in the code."
-        },
-        {
-          "p":
-            "Try the <a href='https://thurt.github.io/demo-mvc-product-assembler' target='_blank'>demo&#x21D7;</a>"
-        },
-        {"p": "<span class='tags'>Tags: Schemas, Forms, MVC</span>"}
       ]
     },
     {
