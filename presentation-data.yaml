@@ -9,10 +9,12 @@
     - heading: "Welcome"
       sub-heading: "Personal Portfolio for Taylor Hurt"
       contents: 
+        - p: "This presentation shows off some demos that I have developed in my free time."
+        - p: "Here is a summary of me:"
         - ul: 
-            - "3+ years experience writing HTML/CSS/Javascript"
-            - "Proficient in designing responsive web apps with the latest techonologies"
-            - "Fluent in the creation of HTTP APIs as well as integrating with third-party APIs"
+            - "I have 3+ years experience writing HTML/CSS/JS and 1+ years experience writing Nodejs/Go"
+            - "I am proficient in designing responsive web apps with the latest techonologies"
+            - "I like creating HTTP APIs as well as integrating with third-party APIs"
 
     - heading: "Personal Portfolio"
       sub-heading: "Blog Platform Server"
@@ -21,7 +23,7 @@
       contents: 
         - p: "This API, designed using <a href='https://grpc.io/'>gRPC</a> and <a href='https://github.com/grpc-ecosystem/grpc-gateway'>grpc-gateway</a>, allows you to create and edit blog posts and supports user accounts for commenting. The server was written in Go and follows the <a href='https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html'>CLEAN architecture</a>."
         - p: "Try the <a href='http://petstore.swagger.io/?url=https://learned-stone-189802.appspot.com/api/_swagger' target='_blank'>API&#x21D7;</a> (get access token with user: admin, password: admin1), or see the <a href='https://github.com/thurt/demo-blog-platform' target='_blank'>repo&#x21D7;</a>."
-        - p: "<span class='tags'>Tags: gRPC, grpc-gateway, OpenAPI, CLEAN</span>"
+        - p: "<span class='tags'>Tags: Go, gRPC, grpc-gateway, OpenAPI, CLEAN</span>"
 
     - heading: "Personal Portfolio"
       sub-heading: "Blog Platform Client"
