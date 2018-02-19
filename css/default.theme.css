@@ -1,6 +1,10 @@
 body {
-  background: #F1F2B5;
-  background: -webkit-linear-gradient(to left, #F1F2B5, #135058);
+  background: #f1f2b5;
+  background: -webkit-linear-gradient(
+    to left,
+    #F1F2B5,
+    #135058
+  );
   background: linear-gradient(to left, #F1F2B5, #135058);
 }
 
@@ -36,7 +40,7 @@ section {
   width: 85%;
   border-top-right-radius: 5em;
   border-bottom-right-radius: 5em;
-  box-shadow: .05em .1em .2em #888888;
+  box-shadow: 0.05em 0.1em 0.2em #888888;
 }
 
 /* these rules are used if js is enabled, meaning navigation is added with slides appearing/disappearing */
@@ -117,6 +121,6 @@ img {
   height: auto;
   overflow: hidden;
   border-radius: 1em;
-  box-shadow: .05em .1em .2em #888888;
+  box-shadow: 0.05em 0.1em 0.2em #888888;
   border: 1px solid gray;
 }

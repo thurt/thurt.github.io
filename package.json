@@ -8,7 +8,7 @@
   "author": "thurt",
   "license": "ISC",
   "devDependencies": {
-    "simple-web-presentation": "thurt/simple-web-presentation#v2.2.0"
+    "simple-web-presentation": "thurt/simple-web-presentation#v2.2.1"
   },
   "dependencies": {}
 }
