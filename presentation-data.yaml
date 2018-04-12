@@ -66,7 +66,7 @@
       img: "img/webpresentations.png"
       img-caption: "Demo image"
       contents: 
-        - p: "This project allows you to create simple web presentations with just a few lines of JSON. The responsive design makes your presentation look good on small and large screens."
+        - p: "This project allows you to create simple web presentations with just a few lines of YAML/JSON. The responsive design makes your presentation look good on small and large screens."
         - p: "For more info, see the <a href='https://github.com/thurt/simple-web-presentation' target='_blank'>repo&#x21D7;</a>"
         - p: "<span class='tags'>Tags: Semantic HTML, Responsive Design, JSON, Handlebars</span>"
 
@@ -84,7 +84,7 @@
       img: "img/noteapp.png"
       img-caption: "Demo image"
       contents: 
-        - p: "In addition to a responsive design, this practical application exemplifies MVVM and PubSub architecture. The Note model provides a Data Access Layer to localStorage and the View Models contain the logic to perform DOM updates."
+        - p: "In addition to a responsive design, this practical application exemplifies MVVM architecture. The Note model provides a Data Access Layer to localStorage and the View Models contain the logic to perform DOM updates."
         - p: "Try the <a href='https://rawgit.com/thurt/demo-mvvm-note-app/master/dist/index.html' target='_blank'>demo&#x21D7;</a>"
         - p: "<span class='tags'>Tags: MVVM, PubSub, Bootstrap, Responsive Design, UX Design, localStorage</span>"
 
